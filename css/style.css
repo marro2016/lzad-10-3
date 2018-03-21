@@ -9,7 +9,7 @@
  #mycarousel ul { 
   list-style-type: none; 
   margin: 0; padding: 0; 
-  width: 2000; }
+  width: 2000px ; }
 
 #mycarousel li { 
   list-style: none; 
